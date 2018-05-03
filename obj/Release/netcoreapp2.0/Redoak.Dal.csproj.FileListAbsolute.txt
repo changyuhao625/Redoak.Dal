@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Redoak\Redoak.Dal\bin\Release\netcoreapp2.0\Redoak.Dal.deps.json
+\\Mac\Home\Documents\Redoak\Redoak.Dal\bin\Release\netcoreapp2.0\Redoak.Dal.dll
+\\Mac\Home\Documents\Redoak\Redoak.Dal\bin\Release\netcoreapp2.0\Redoak.Dal.pdb
+\\Mac\Home\Documents\Redoak\Redoak.Dal\bin\Release\netcoreapp2.0\Redoak.Domain.Model.dll
+\\Mac\Home\Documents\Redoak\Redoak.Dal\bin\Release\netcoreapp2.0\Redoak.Domain.Model.pdb
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.AssemblyInfo.cs
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.csproj.CopyComplete
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.dll
+\\Mac\Home\Documents\Redoak\Redoak.Dal\obj\Release\netcoreapp2.0\Redoak.Dal.pdb
